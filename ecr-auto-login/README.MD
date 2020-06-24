@@ -1,0 +1,1 @@
+Cronjob to automatically login to the aws screen and pull images from the repository.
